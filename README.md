@@ -14,7 +14,7 @@ To download a single presentation:
 
 ## For Speakers - Submitting Materials
 
-If possible, please submit your slides in PDF format. This will allow the widest group of people to read them easily. If that’s not possible, you may also submit PowerPoint (`.ppt`/`.pptx`) files and zipped folders containing Keynote or HTML. 
+If possible, please submit your slides in PDF format. This will allow the widest group of people to read them easily. If that’s not possible, you may also submit PowerPoint (`.ppt`/`.pptx`) files and zipped folders containing Keynote or HTML.
 
 For source code, please upload in archive file.
 
@@ -22,3 +22,4 @@ To help make our job easier, please name your slide files as follows:
 
 > Presentation Title - Speaker Name - MKDCpp
 
+1. Emscripten - LLVM to JavaScript Compiler - [Renata Gjoreska](https://github.com/RenataGj/planner-emscripten-demo) - MKDCpp
